@@ -1,0 +1,57 @@
+/* header */
+.navbar
+{
+  background-color: #F6AC31 !important;
+  color: #0054A0 !important;
+
+}
+
+
+/* for text hover effect */
+.text:hover{
+  color: lightgrey;
+}
+
+/* footer */
+.footer{
+  background-color: #0054A0;
+  color: #F6AC31;
+}
+
+.line{
+  border-right: #F6AC31 1px solid;
+}
+.copyRight
+{
+    background-color: #F6AC31;
+    color: #0054A0;
+}
+
+
+
+
+/* loin form */
+
+.formCard{
+  display: grid;
+  place-items: center;
+  color: #0054A0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginLogo{
+  width: 30%;
+}
+
+
+/* card */
+.card{
+  color: #0054A0;
+}
+
+.badge{
+  width: 100%;
+  border-bottom: #0054A0 1px solid;
+  color: #0054A0;
+}
